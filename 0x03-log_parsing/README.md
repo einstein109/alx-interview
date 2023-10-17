@@ -1,4 +1,3 @@
-this readme belongs to 0x03-log_parsing
 # Log Parsing
 
 This project contains interview coding challenges.
